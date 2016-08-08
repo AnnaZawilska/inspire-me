@@ -13,3 +13,28 @@ Available here: https://pypi.python.org/pypi/autocomplete/0.0.104
     pip install autocomplete
 Create the text file with the poetry you want as inspiration, and point to that file in autocomplete.models.train_bigtxt()
 The training data set I used is given in this repo as training_set_poetry_plath.txt.
+
+## Example poetry
+
+Here's a poem my computer and I co-wrote:
+
+*the burning fire as the outsiders entered on the narrowing roads*<br>
+*barrels stacked in the dark shadows*<br>
+*crowds bold and austere*<br>
+<br><br>
+*their cries unintelligible, bodies creating an island*<br>
+*the moon coming up, big yellow bulb*<br>
+<br><br>
+*the large houses’ windows illuminated*<br>
+*chidren crowded up against the windows*<br>
+*babies fallen asleep upstairs, desultory*<br>
+<br><br>
+*among the thump*<br>
+*thump*<br>
+*thump*<br>
+<br><br>
+*a top barrel rolls lurches over*<br>
+*clunk*<br>
+*on the ground*<br>
+<br><br>
+*and rolls away to the distance*<br>
