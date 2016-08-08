@@ -17,24 +17,24 @@ The training data set I used is given in this repo as training_set_poetry_plath.
 ## Example poetry
 
 Here's a poem my computer and I co-wrote:
-
+<br><br><br><br>
 *the burning fire as the outsiders entered on the narrowing roads*<br>
 *barrels stacked in the dark shadows*<br>
 *crowds bold and austere*<br>
-<br><br>
+<br>
 *their cries unintelligible, bodies creating an island*<br>
 *the moon coming up, big yellow bulb*<br>
-<br><br>
+<br>
 *the large houses’ windows illuminated*<br>
 *chidren crowded up against the windows*<br>
 *babies fallen asleep upstairs, desultory*<br>
-<br><br>
+<br>
 *among the thump*<br>
 *thump*<br>
 *thump*<br>
-<br><br>
+<br>
 *a top barrel rolls lurches over*<br>
 *clunk*<br>
 *on the ground*<br>
-<br><br>
+<br>
 *and rolls away to the distance*<br>
